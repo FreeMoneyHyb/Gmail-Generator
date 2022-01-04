@@ -1,2 +1,5 @@
 # Gmail-Generator
-Generates @gmail emails coded in python email gen
+This will generate gmail emails
+
+To Start Open Cmd And Go To The Directory Of The File Then
+Type **py Gen.py**
